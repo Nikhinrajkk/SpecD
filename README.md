@@ -2,6 +2,8 @@
 
 Next.js app that turns a **feature description** into a **dynamic Markdown spec**: multiple sections from an LLM, each editable and **AI-rewritable**, plus **download as `.md`**.
 
+Link https://specd-five.vercel.app/
+
 ## Setup (free tier recommended)
 
 ```bash
